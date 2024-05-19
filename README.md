@@ -1,1 +1,1 @@
-# next.js
+next.js learning repo
